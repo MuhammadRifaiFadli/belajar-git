@@ -1,0 +1,2 @@
+1.git branch -> untuk membuat branch baru
+2.git checkout -> untuk berpindah ke branch lain 
